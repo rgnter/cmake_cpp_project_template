@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.24)
 project(cmake_cpp_project_template
         VERSION      1.0.0
-        LANGUAGES CXX
+        LANGUAGES    CXX
         DESCRIPTION  "My CMake Project"
         HOMEPAGE_URL "https://example.com")
 
